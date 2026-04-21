@@ -4,7 +4,7 @@ Programador com experiência em C e Python, trabalhando na ROMI S.A.
 Apaixonado por tecnologia, estou em transição para desenvolvimento web e análise de dados.
 
 ## 🛠️ Tecnologias
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C Language](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
