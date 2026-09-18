@@ -2,7 +2,7 @@
 
 **`Programador C & Python | Web Dev | AI & ML Student`**
 
-Olá! Meu nome é João Pedro, tenho 22 anos e sou apaixonado por tecnologia. Atualmente trabalho na ROMI S.A., uma das maiores fabricantes de máquinas industriais do Brasil, desenvolvendo software em C e Python para automação industrial. Em transição para desenvolvimento web e análise de dados, com background em HTML, CSS, JavaScript e PHP. Cursando Tecnologia em Inteligência Artificial e Machine Learning pela Uniasselvi.
+Olá! Meu nome é João Pedro, tenho 23 anos e sou apaixonado por tecnologia. Atualmente trabalho na ROMI S.A., uma das maiores fabricantes de máquinas industriais do Brasil, desenvolvendo software em C e Python para automação industrial. Em transição para desenvolvimento web e análise de dados, com background em HTML, CSS, JavaScript e PHP. Cursando Tecnologia em Inteligência Artificial e Machine Learning pela Uniasselvi.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/joaopedrourbano-ti/">
